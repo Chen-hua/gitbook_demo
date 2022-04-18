@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "resolutions": {
+    "graceful-fs": "4.2.4"
+  },
+  "scripts": {
+      "init": "node_modules/.bin/gitbook init",
+      "start": "node_modules/.bin/gitbook serve",
+      "build": "node_modules/.bin/gitbook build"
+  }
+  
+}

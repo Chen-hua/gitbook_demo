@@ -1,0 +1,26 @@
+{
+    "author": "00881141 <chelsylee@cathaylife.com.tw>",
+    "description": "This is a sample book created by gitbook",
+    "extension": null,
+    "generator": "site",
+    "output": null,
+    "plugins": [
+        "prism", 
+        "-highlight",
+        "expandable-chapters",
+        "chapter-fold",
+        "splitter",
+        "-lunr", 
+        "-search", 
+        "search-pro"
+    ],
+    "pluginsConfig": {
+        "prism": {
+          "css": [
+            "prismjs/themes/prism-okaidia.css"
+          ]
+        }
+    },
+    "title": "GitBook Demo",
+    "variables": {}
+}
